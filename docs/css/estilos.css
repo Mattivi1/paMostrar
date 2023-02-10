@@ -30,3 +30,12 @@ nav{
 	margin-left: 3vw;
 	margin-top: 3vw;
 }
+#secDH{
+	border-top: 3px solid black;
+}
+#divIFrame{
+	display: block;
+	margin: auto;
+	margin-top: 3vw;
+	margin-bottom: 3vw;
+}
